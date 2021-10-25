@@ -1,0 +1,20 @@
+{
+  "name": "das-dn",
+  "version": "1.0.0",
+  "description": "Styles of project DasDn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "DasDn",
+    "das-dn",
+    "das"
+  ],
+  "author": "ToanNck",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "das-dn"
+  }
+}
